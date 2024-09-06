@@ -108,6 +108,66 @@ export default {
           picture:
             "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
         },
+        {
+          title: "Interstellar",
+          year: 2014,
+          description:
+            "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+          director: "Christopher Nolan",
+          duration: "2h 49min",
+          genre: ["Adventure", "Drama", "Sci-Fi"],
+          rate: 8.6,
+          picture:
+            "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+        },
+        {
+          title: "The Avengers",
+          year: 2012,
+          description:
+            "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+          director: "Joss Whedon",
+          duration: "2h 23min",
+          genre: ["Action", "Adventure", "Sci-Fi"],
+          rate: 8.0,
+          picture:
+            "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        },
+        {
+          title: "The Social Network",
+          year: 2010,
+          description:
+            "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+          director: "David Fincher",
+          duration: "2h",
+          genre: ["Biography", "Drama"],
+          rate: 7.7,
+          picture:
+            "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/chameleon/title-movie/DP_1654052_TC_1400x2100_625139_SOCIAL%20NETWORK%2C%20THE_2000x3000_English%20%28US%29_0.jpg?itok=hkayPoaY",
+        },
+        {
+          title: "The Lion King",
+          year: 1994,
+          description:
+            "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+          director: "Roger Allers, Rob Minkoff",
+          duration: "1h 28min",
+          genre: ["Animation", "Adventure", "Drama"],
+          rate: 8.5,
+          picture:
+            "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+        },
+        {
+          title: "The Pursuit of Happyness",
+          year: 2006,
+          description:
+            "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+          director: "Gabriele Muccino",
+          duration: "1h 57min",
+          genre: ["Biography", "Drama"],
+          rate: 8.0,
+          picture:
+            "https://upload.wikimedia.org/wikipedia/en/8/81/Poster-pursuithappyness.jpg",
+        },
       ],
     };
   },
